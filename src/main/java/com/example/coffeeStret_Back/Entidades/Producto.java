@@ -25,4 +25,6 @@ public class Producto {
 
     private int popularidad;
 
+    private  String imgen;
+
 }
